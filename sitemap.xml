@@ -2,20 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rebelplans.com/</loc>
-    <lastmod>2022-03-04</lastmod>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rebelplans.com/#login</loc>
-    <lastmod>2022-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.1</priority>
+    <loc>https://rebelplans.com/roadmap-creation/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rebelplans.com/#signup</loc>
-    <lastmod>2022-03-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.1</priority>
+    <loc>https://rebelplans.com/project-planning/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/product-strategy/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/long-term-vision/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/workload-delivery/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/team-collaboration/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/ideas-visualization/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/task-prioritization/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/plans-pricing/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/feature-index/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/past-releases/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/product-roadmap/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/about-rebel-plans/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/rebel-press-media/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/roadmapping-terms/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rebelplans.com/usage-and-privacy/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
